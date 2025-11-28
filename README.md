@@ -1,9 +1,7 @@
 <div align="center">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1100&width=435&lines=TwoSpace+-+%D0%A7%D1%91%D1%82%D0%BA%D0%BE.+%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%BE.+%D0%A3%D0%B4%D0%BE%D0%B1%D0%BD%D0%BE.;AnotherLine.Music+-+%D0%9B%D0%B5%D0%B9%D0%B1%D0%BB+%D0%B1%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D0%BD%D1%82%D0%BE%D0%B2.;BeyondBlocks+-+%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9+Minecraft.)](https://git.io/typing-svg)
-
   <br><br>
-
   <a href="https://twospace.ru" target="_blank">
     <img src="https://img.shields.io/badge/TwoSpace-000000?style=for-the-badge&logo=flutter&logoColor=02569B" alt="TwoSpace"/>
   </a>
