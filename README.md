@@ -22,10 +22,10 @@
 ## 💻 Обо мне
 
 Мне **17 лет**, обучаюсь и активно изучаю новые технологии
-💬 Основные языки: **Dart** (на Flutter), **Python**
-🚀 Работаю над проектами [**TwoSpace**](https://twospace.ru) и [**al-music.ru**](https://al-music.ru)
-🤖 Использую LLM как помощников, но учусь писать код сам
-🎧 Иногда создаю музыку и стримлю
+Основные языки: **Dart** (на Flutter), **Python**
+Работаю над проектами [**TwoSpace**](https://twospace.ru) и [**al-music.ru**](https://al-music.ru)
+Использую LLM как помощников, но учусь писать код сам
+Иногда создаю музыку и стримлю
 
 <br>
 
@@ -45,7 +45,7 @@
 
 <br>
 
-## 🛠️ Используемые технологии
+## Технологии и библиотеки
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=dart,flutter,python,js,ts,html,css,nodejs,postgres,redis,linux,git,github,vscode" />
@@ -53,12 +53,13 @@
 
 <br>
 
-## 🔗 Ссылки
+## Ссылки
 
-- 🌐 [twospace.ru](https://twospace.ru)
-- 🎵 [al-music.ru](https://al-music.ru)
-- 💬 [Telegram](https://t.me/wakcedon)
-- 📧 [vaksedon@gmail.com](mailto:vaksedon@gmail.com)
+- [twospace.ru](https://twospace.ru)
+- [beyondblocks.ru](https://beyondblocks.ru)
+- [al-music.ru](https://al-music.ru)
+- [Telegram](https://t.me/wakcedon)
+- [vaksedon@gmail.com](mailto:vaksedon@gmail.com)
 
 <br>
 <hr>
